@@ -129,9 +129,9 @@ I write about what I'm building and learning on **dev.to**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=codebyoketch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyoketch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
+![codebyoketch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyoketch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ---
