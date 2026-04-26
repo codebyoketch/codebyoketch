@@ -9,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-oketchlabs.space-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://oketchlabs.space)
 [![ChamaBook](https://img.shields.io/badge/ChamaBook-Live-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chamabook.oketchlabs.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dishon_Oketch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/dishon-oketch-742011256)
+[![Twitter](https://img.shields.io/badge/Twitter-@oketch__dishon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oketch_dishon)
+[![dev.to](https://img.shields.io/badge/dev.to-@oketch-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/oketch)
 [![Location](https://img.shields.io/badge/Kisumu-Kenya-dc2626?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -117,6 +119,8 @@ Peer-to-peer. Project-based. No lectures, no hand-holding — you build or you d
 |---|---|
 | Portfolio | [oketchlabs.space](https://oketchlabs.space) |
 | LinkedIn | [Dishon Oketch](https://ke.linkedin.com/in/dishon-oketch-742011256) |
+| Twitter | [@oketch_dishon](https://twitter.com/oketch_dishon) |
+| Writing | [dev.to/oketch](https://dev.to/oketch) |
 | Email | oketch.don.ke@gmail.com |
 | Location | Kisumu, Kenya |
 
