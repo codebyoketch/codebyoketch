@@ -118,7 +118,7 @@ Peer-to-peer. Project-based. No lectures, no hand-holding — you build or you d
 | | |
 |---|---|
 | Portfolio | [oketchlabs.space](https://oketchlabs.space) |
-| LinkedIn | [Dishon Oketch](https://ke.linkedin.com/in/dishon-oketch-742011256) |
+| LinkedIn | [Dishon Oketch](https://ke.linkedin.com/in/oketch) |
 | Twitter | [@oketch_dishon](https://twitter.com/oketch_dishon) |
 | Writing | [dev.to/oketch](https://dev.to/oketch) |
 | Email | oketch.don.ke@gmail.com |
