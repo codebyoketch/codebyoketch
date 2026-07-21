@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-oketchlabs.space-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://oketchlabs.space)
 [![ChamaBook](https://img.shields.io/badge/ChamaBook-Live-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chamabook.oketchlabs.space)
+[![wa-cli](https://img.shields.io/badge/wa--cli-v1.0.0-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/codebyoketch/wa-cli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dishon_Oketch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/dishon-oketch-742011256)
 [![Twitter](https://img.shields.io/badge/Twitter-@oketch__dishon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oketch_dishon)
 [![dev.to](https://img.shields.io/badge/dev.to-@oketch-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/oketch)
@@ -50,6 +51,19 @@ End-to-end platform for water utility operations — billing cycles, GIS mapping
 
 ---
 
+### wa-cli — [GitHub](https://github.com/codebyoketch/wa-cli) &nbsp;·&nbsp; [Docs](https://codebyoketch.github.io/wa-cli/)
+
+A WhatsApp client for the terminal — scriptable CLI and a full-screen TUI in one binary, built on whatsmeow. Send/receive messages, manage chats/contacts/groups/media, `--json` output for automation, a plugin system for extending it via git-cloned subprocesses, and prebuilt cross-platform binaries. Tagged `v1.0.0`.
+
+| Layer | Stack |
+|---|---|
+| Core | Go · whatsmeow · Cobra |
+| TUI | Bubble Tea · Lip Gloss · Bubbles |
+| Storage | SQLite (session) · local JSON (chat/message index) |
+| Release | GoReleaser · GitHub Actions · Homebrew · Scoop · Docker |
+
+---
+
 ### DMM Billing *(In Progress)*
 
 Fully offline desktop billing application for water utilities — built for field environments where internet connectivity cannot be assumed. All data lives locally.
@@ -63,10 +77,11 @@ Fully offline desktop billing application for water utilities — built for fiel
 ```text
 Languages       →  Go · Python · JavaScript · SQL · Bash
 Frontend        →  React · Vite · Tailwind CSS
-Backend         →  Gin · GORM · REST APIs · JWT
-Databases       →  PostgreSQL · PostGIS
-DevOps          →  Docker · Docker Compose · Nginx · Cloudflare Tunnels · Linux
-Integrations    →  Africa's Talking SMS
+Backend         →  Gin · GORM · Cobra · REST APIs · JWT
+CLI / TUI       →  Cobra · Bubble Tea · Lip Gloss
+Databases       →  PostgreSQL · PostGIS · SQLite
+DevOps          →  Docker · Docker Compose · Nginx · Cloudflare Tunnels · GoReleaser · GitHub Actions · Linux
+Integrations    →  Africa's Talking SMS · whatsmeow (WhatsApp)
 Productivity    →  Microsoft Excel · Microsoft Office
 Tools           →  Git · VS Code · Termux
 ```
